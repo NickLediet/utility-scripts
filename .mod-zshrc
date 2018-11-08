@@ -1,0 +1,4 @@
+ alias pestle="php ~/pestle.phar"
+ alias grf="git reset --hard && git clean -df && git pull"
+ alias gc="git checkout"
+ alias gs="git status"
