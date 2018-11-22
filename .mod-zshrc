@@ -2,3 +2,5 @@
  alias grf="git reset --hard && git clean -df && git pull"
  alias gc="git checkout"
  alias gs="git status"
+ alias gp="git push"
+ alias gpn="git push --set-upstream origin $(git rev-parse --abbrev-ref HEAD)"
